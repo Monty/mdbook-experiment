@@ -552,7 +552,3 @@ was removed&mdash;and the air seemed rife with suspicion. The sinister face of
 Dr. Bauerstein recurred to me unpleasantly. A vague suspicion of everyone and
 everything filled my mind. Just for a moment I had a premonition of approaching
 evil.
-
-</div><!--end chapter-->
-
-<div class="chapter">
