@@ -1,4 +1,4 @@
-CHAPTER II.<br/>
+<h2>CHAPTER II.<br/>
 THE 16TH AND 17TH OF JULY</h2>
 
 I had arrived at Styles on the 5th of July. I come now to the events of the
