@@ -337,8 +337,8 @@ She nodded.
 &ldquo;I have got a cousin who is nursing,&rdquo; I remarked. &ldquo;And she is
 terrified of &lsquo;Sisters&rsquo;.&rdquo;
 
-&ldquo;I don&rsquo;t wonder. Sisters <i>are</i>, you know, Mr. Hastings. They
-simp-ly <i>are</i>! You&rsquo;ve no idea! But I&rsquo;m not a nurse,
+&ldquo;I don&rsquo;t wonder. Sisters *are*, you know, Mr. Hastings. They
+simp-ly *are*! You&rsquo;ve no idea! But I&rsquo;m not a nurse,
 thank heaven, I work in the dispensary.&rdquo;
 
 &ldquo;How many people do you poison?&rdquo; I asked, smiling.
