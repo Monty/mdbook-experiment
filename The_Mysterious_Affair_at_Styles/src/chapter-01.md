@@ -1,5 +1,4 @@
-# Chapter 1
-<h2><a name="chap01"></a>CHAPTER I.<br/>
+<h2>CHAPTER I.<br/>
 I GO TO STYLES</h2>
 
 The intense interest aroused in the public by what was known at the time as
