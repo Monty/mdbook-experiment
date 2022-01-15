@@ -1,3 +1,8 @@
+![Book Cover](images/cover.jpg)
+
+# The Mysterious Affair at Styles
+### by Agatha Christie<br><br>
+---
 ## Contents
 
 <table summary="Contents" style="margin-right: auto; margin-left: auto">
