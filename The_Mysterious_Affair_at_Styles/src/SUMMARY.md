@@ -1,7 +1,10 @@
 # Summary
 
 [Introduction](README.md)
-[Contents](CONTENTS.md)
+
+[Table of Contents](CONTENTS.md)
+
+# The Mysterious Affair at Styles
 
 - [Chapter 1](./chapter-01.md)
 - [Chapter 2](./chapter-02.md)
