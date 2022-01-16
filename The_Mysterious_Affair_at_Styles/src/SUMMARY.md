@@ -2,10 +2,9 @@
 
 [Introduction](README.md)
 
-[Table of Contents](CONTENTS.md)
-
 # The Mysterious Affair at Styles
 
+- [Table of Contents](CONTENTS.md)
 - [Chapter 1](./chapter-01.md)
 - [Chapter 2](./chapter-02.md)
 - [Chapter 3](./chapter-03.md)
