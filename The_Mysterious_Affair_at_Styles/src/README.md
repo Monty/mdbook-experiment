@@ -1,3 +1,14 @@
+I wanted to experiment with  using [mdbook](https://github.com/rust-lang/mdBook)
+for a book as opposed to documentation.
+
+I borrowed code from Eric Hamiter's [IPython mdbook](https://github.com/ehamiter/ipython-book)
+to replace standard mdbook fonts and css.
+
+I used this [Project Gutenberg eBook](https://www.gutenberg.org/ebooks/863)
+for sample content.
+
+---
+
 ### The Project Gutenberg eBook of The Mysterious Affair at Styles, by Agatha Christie
 
 This eBook is for the use of anyone anywhere in the United States

@@ -1,6 +1,6 @@
 # Summary
 
-[Introduction](README.md)
+[About](README.md)
 
 # The Mysterious Affair at Styles
 
