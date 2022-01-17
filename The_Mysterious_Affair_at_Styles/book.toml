@@ -7,5 +7,6 @@ title = "The Mysterious Affair at Styles"
 
 [output.html]
 theme = "src/ipython-theme"
+git-repository-url = "https://github.com/Monty/mdbook-experiment"
 curly-quotes = true
 no-section-label = true
