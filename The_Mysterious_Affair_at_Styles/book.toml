@@ -6,5 +6,6 @@ src = "src"
 title = "The Mysterious Affair at Styles"
 
 [output.html]
+theme = "src/ipython-theme"
 curly-quotes = true
 no-section-label = true
