@@ -28,7 +28,7 @@ html {
 
 body {
     margin: 0;
-    font-size: 2.2rem;
+    font-size: 1.9rem;
     overflow-x: hidden;
 }
 
@@ -184,7 +184,7 @@ blockquote {
 
 .chapter {
     font-family: "Open Sans", sans-serif;
-    font-size: 0.8em;
+    font-size: 1em;
 }
 
 .chapter li.part-title {
