@@ -1,44 +1,12 @@
 /* Custom shizz */
 
-/* Edlo */
+/* roboto-slab-regular - latin-ext_latin */
 @font-face {
-  font-family: 'Edlo';
-  font-style: normal;
-  font-weight: 500;
-  src: url('../fonts/edlo.woff2') format('woff2');
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'GentiumBookBasic';
+  font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/GentiumBookBasic-Regular.woff2') format('woff2');
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'GentiumBookBasic';
-  font-style: italic;
-  font-weight: 400;
-  src: url('../fonts/GentiumBookBasic-Italic.woff2') format('woff2');
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'GentiumBookBasic';
-  font-style: normal;
-  font-weight: 800;
-  src: url('../fonts/GentiumBookBasic-Bold.woff2') format('woff2');
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'GentiumBookBasic';
-  font-style: italic;
-  font-weight: 800;
-  src: url('../fonts/GentiumBookBasic-BoldItalic.woff2') format('woff2');
-  font-display: swap;
+  src: local(''),
+       url('../fonts/roboto-slab-v16-latin-ext_latin-regular.woff2') format('woff2')
 }
 
 /* Base styles and content styles */
@@ -51,7 +19,7 @@
 }
 
 html {
-    font-family: "GentiumBookBasic", "Open Sans", sans-serif;
+    font-family: "Roboto Slab", "Open Sans", sans-serif;
     color: var(--fg);
     background-color: var(--bg);
     text-size-adjust: none;
@@ -65,7 +33,7 @@ body {
 }
 
 code {
-    font-family: Edlo, "Source Code Pro", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace !important;
+    font-family: "Source Code Pro", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace !important;
     font-size: 0.875em; /* please adjust the ace font size accordingly in editor.js */
 }
 
