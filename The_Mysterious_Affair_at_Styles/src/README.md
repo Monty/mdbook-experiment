@@ -7,6 +7,9 @@ to replace standard mdbook fonts and css.
 I used this [Project Gutenberg eBook](https://www.gutenberg.org/ebooks/863)
 for sample content.
 
+This branch uses Roboto_Slab:  
+roboto-slab-v16-latin-ext_latin-regular.woff2
+
 ---
 
 ### The Project Gutenberg eBook of The Mysterious Affair at Styles, by Agatha Christie
