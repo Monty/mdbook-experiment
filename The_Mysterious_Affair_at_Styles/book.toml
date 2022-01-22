@@ -6,7 +6,7 @@ src = "src"
 title = "The Mysterious Affair at Styles"
 
 [output.html]
-theme = "src/ipython-theme"
+additional-css = ["src/font-family.css"]
 git-repository-url = "https://github.com/Monty/mdbook-experiment"
 curly-quotes = true
 no-section-label = true
