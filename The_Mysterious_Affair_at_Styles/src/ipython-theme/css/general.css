@@ -1,14 +1,5 @@
 /* Custom shizz */
 
-/* roboto-slab-regular - latin-ext_latin */
-@font-face {
-  font-family: 'Roboto Slab';
-  font-style: normal;
-  font-weight: 400;
-  src: local(''),
-       url('../fonts/roboto-slab-v16-latin-ext_latin-regular.woff2') format('woff2')
-}
-
 /* Base styles and content styles */
 
 @import 'variables.css';
@@ -19,7 +10,7 @@
 }
 
 html {
-    font-family: "Roboto Slab", "Open Sans", sans-serif;
+    font-family: "Times New Roman";
     color: var(--fg);
     background-color: var(--bg);
     text-size-adjust: none;
