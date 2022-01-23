@@ -1,5 +1,4 @@
-<h2>CHAPTER IX.<br/>
-DR. BAUERSTEIN</h2>
+## CHAPTER IX.<br/>DR. BAUERSTEIN
 
 I had had no opportunity as yet of passing on Poirot&rsquo;s message to
 Lawrence. But now, as I strolled out on the lawn, still nursing a grudge

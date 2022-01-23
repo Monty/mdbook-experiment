@@ -1,5 +1,4 @@
-<h2>CHAPTER IV.<br/>
-POIROT INVESTIGATES</h2>
+## CHAPTER IV.<br/>POIROT INVESTIGATES
 
 The house which the Belgians occupied in the village was quite close to the
 park gates. One could save time by taking a narrow path through the long grass,
