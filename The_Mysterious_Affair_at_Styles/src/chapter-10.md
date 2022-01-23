@@ -1,5 +1,4 @@
-<h2>CHAPTER X.<br/>
-THE ARREST</h2>
+## CHAPTER X.<br/>THE ARREST
 
 To my extreme annoyance, Poirot was not in, and the old Belgian who answered my
 knock informed me that he believed he had gone to London.

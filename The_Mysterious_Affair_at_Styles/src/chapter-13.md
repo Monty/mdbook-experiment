@@ -1,5 +1,4 @@
-<h2>CHAPTER XIII.<br/>
-POIROT EXPLAINS</h2>
+## CHAPTER XIII.<br/>POIROT EXPLAINS
 
 &ldquo;Poirot, you old villain,&rdquo; I said, &ldquo;I&rsquo;ve half a mind to
 strangle you! What do you mean by deceiving me as you have done?&rdquo;

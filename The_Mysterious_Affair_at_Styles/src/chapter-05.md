@@ -1,5 +1,4 @@
-<h2>CHAPTER V.<br/>
-&ldquo;IT ISN&rsquo;T STRYCHNINE, IS IT?&rdquo;</h2>
+## CHAPTER V.<br/>&ldquo;IT ISN&rsquo;T STRYCHNINE, IS IT?&rdquo;
 
 &ldquo;Where did you find this?&rdquo; I asked Poirot, in lively curiosity.
 
