@@ -6,7 +6,7 @@ src = "src"
 title = "The Mysterious Affair at Styles (in Times New Roman font)"
 
 [output.html]
-additional-css = ["src/Gutenberg.css"]
+additional-css = ["src/font-family.css", "src/Gutenberg.css"]
 git-repository-url = "https://github.com/Monty/mdbook-experiment"
 curly-quotes = true
 no-section-label = true
