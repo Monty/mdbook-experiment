@@ -1,5 +1,4 @@
-<h2>CHAPTER III.<br/>
-THE NIGHT OF THE TRAGEDY</h2>
+## CHAPTER III.<br/>THE NIGHT OF THE TRAGEDY
 
 To make this part of my story clear, I append the following plan of the first
 floor of Styles. The servants&rsquo; rooms are reached through the door B. They

@@ -1,5 +1,4 @@
-<h2>CHAPTER I.<br/>
-I GO TO STYLES</h2>
+## CHAPTER I.<br/>I GO TO STYLES
 
 The intense interest aroused in the public by what was known at the time as
 &ldquo;The Styles Case&rdquo; has now somewhat subsided. Nevertheless, in view
