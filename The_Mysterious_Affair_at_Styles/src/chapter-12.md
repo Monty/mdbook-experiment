@@ -315,37 +315,23 @@ Red Cross Hospital at Tadminster:
 
 &ldquo;&lsquo;The following prescription has become famous in text books:
 
-    <table border="0" cellpadding="0" cellspacing="0" summary="">
-      <tr>
-        <td align="left">
-          Strychninae Sulph. . . . . .
-        </td>
-        <td align="left">
-          1 gr.
-        </td>
-      </tr>
-      <tr>
-        <td align="left">
-          Potass Bromide . . . . . . .
-        </td>
-        <td align="left">
-          <sup>3</sup>vi
-        </td>
-      </tr>
-      <tr>
-        <td align="left">
-          Aqua ad. . . . . . . . . . . . .
-        </td>
-        <td align="left">
-          <sup>3</sup>viii
-        </td>
-      </tr>
-      <tr>
-        <td align="left">
-          Fiat Mistura
-        </td>
-      </tr>
-    </table>
+<table border="0" cellpadding="0" cellspacing="0" summary="">
+<tr>
+<td align="left"> Strychninae Sulph. . . . . . </td>
+<td align="left"> 1 gr. </td>
+</tr>
+<tr>
+<td align="left"> Potass Bromide . . . . . . . </td>
+<td align="left"> <sup>3</sup>vi </td>
+</tr>
+<tr>
+<td align="left"> Aqua ad. . . . . . . . . . . . . </td>
+<td align="left"> <sup>3</sup>viii </td>
+</tr>
+<tr>
+<td align="left"> Fiat Mistura </td>
+</tr>
+</table>
 
 
 *This solution deposits in a few hours the greater part of the strychnine salt
