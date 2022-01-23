@@ -1,5 +1,4 @@
-<h2>CHAPTER XI.<br/>
-THE CASE FOR THE PROSECUTION</h2>
+## CHAPTER XI.<br/>THE CASE FOR THE PROSECUTION
 
 The trial of John Cavendish for the murder of his stepmother took place two
 months later.

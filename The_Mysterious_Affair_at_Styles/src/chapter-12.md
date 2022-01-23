@@ -1,5 +1,4 @@
-<h2>CHAPTER XII.<br/>
-THE LAST LINK</h2>
+## CHAPTER XII.<br/>THE LAST LINK
 
 Poirot&rsquo;s abrupt departure had intrigued us all greatly. Sunday morning
 wore away, and still he did not reappear. But about three o&rsquo;clock a
@@ -392,6 +391,7 @@ time coming once the old woman is dead and out of the way. No one can possibly
 bring home the crime to me. That idea of yours about the bromides was a stroke
 of genius! But we must be very circumspect. A false
 step&mdash;&mdash;&rsquo;
+</p>
 
 &ldquo;Here, my friends, the letter breaks off. Doubtless the writer was
 interrupted; but there can be no question as to his identity. We all know this

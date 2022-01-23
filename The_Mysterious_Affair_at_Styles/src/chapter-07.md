@@ -1,5 +1,4 @@
-<h2>CHAPTER VII.<br/>
-POIROT PAYS HIS DEBTS</h2>
+## CHAPTER VII.<br/>POIROT PAYS HIS DEBTS
 
 As we came out of the Stylites Arms, Poirot drew me aside by a gentle pressure
 of the arm. I understood his object. He was waiting for the Scotland Yard men.
@@ -421,6 +420,7 @@ papers, all over England, would blazon out the news in staring headlines:
 <p class="letter">
 &ldquo;MYSTERIOUS TRAGEDY IN ESSEX&rdquo;<br/>
     &ldquo;WEALTHY LADY POISONED&rdquo;
+</p>
 
 There would be pictures of Styles, snap-shots of &ldquo;The family leaving the
 Inquest&rdquo;&mdash;the village photographer had not been idle! All the things
