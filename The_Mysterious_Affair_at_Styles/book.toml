@@ -6,5 +6,6 @@ src = "src"
 title = "The Mysterious Affair at Styles (in Open Sans font)"
 
 [output.html]
+additional-css = ["src/Gutenberg.css"]
 curly-quotes = true
 no-section-label = true
