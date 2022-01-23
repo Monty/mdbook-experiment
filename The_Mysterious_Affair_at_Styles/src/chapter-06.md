@@ -1,5 +1,4 @@
-<h2>CHAPTER VI.<br/>
-THE INQUEST</h2>
+## CHAPTER VI.<br/>THE INQUEST
 
 In the interval before the inquest, Poirot was unfailing in his activity. Twice
 he was closeted with Mr. Wells. He also took long walks into the country. I
@@ -344,6 +343,7 @@ hand written note:<br/><br/>
      &amp; very fond of you<br/>
      Yours affectionately,<br/>
     Emily Inglethorpe<br/>
+</p>
     
 It was handed to the jury who scrutinized it attentively.
 

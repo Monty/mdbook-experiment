@@ -1,5 +1,4 @@
-<h2>CHAPTER VIII.<br/>
-FRESH SUSPICIONS</h2>
+## CHAPTER VIII.<br/>FRESH SUSPICIONS
 
 There was a moment&rsquo;s stupefied silence. Japp, who was the least surprised
 of any of us, was the first to speak.
