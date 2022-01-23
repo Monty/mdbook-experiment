@@ -3,10 +3,10 @@ authors = ["Monty Williams"]
 language = "en"
 multilingual = false
 src = "src"
-title = "The Mysterious Affair at Styles"
+title = "The Mysterious Affair at Styles (in Times New Roman font)"
 
 [output.html]
-additional-css = ["src/font-family.css"]
+additional-css = ["src/Gutenberg.css"]
 git-repository-url = "https://github.com/Monty/mdbook-experiment"
 curly-quotes = true
 no-section-label = true
