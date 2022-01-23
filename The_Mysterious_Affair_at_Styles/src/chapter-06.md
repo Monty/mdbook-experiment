@@ -331,7 +331,6 @@ nothing to our knowledge of the tragedy. The following is a facsimile:
 STYLES COURT<br/>
 ESSEX<br/>
 hand written note:<br/><br/>
-
      July 17th<br/>
      My dear Evelyn<br/>
      Can we not bury<br/>
